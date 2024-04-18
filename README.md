@@ -1,1 +1,1 @@
-# Medical_diagnosis-expert-system-chatbot-uding-prolog
+# Medical_diagnosis-expert-system-chatbot-using-prolog
